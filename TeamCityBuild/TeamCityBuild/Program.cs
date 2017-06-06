@@ -12,6 +12,8 @@ namespace TeamCityBuild
         {
             Console.WriteLine("Hello World");
             var result = new Program().Add(10, 20);
+            Console.WriteLine(result);
+            Console.ReadLine();
         }
 
         public int Add(int a, int b)

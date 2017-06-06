@@ -8,6 +8,7 @@ namespace TeamCityBuild.Test
 {
     using NUnit.Framework;
 
+    [TestFixture]
     public class CalculatorTests
     {
         [Test]
