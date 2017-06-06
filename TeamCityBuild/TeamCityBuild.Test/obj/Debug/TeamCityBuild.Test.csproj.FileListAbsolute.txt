@@ -1,0 +1,10 @@
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild.Test\bin\Debug\TeamCityBuild.Test.dll
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild.Test\bin\Debug\TeamCityBuild.Test.pdb
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild.Test\bin\Debug\nunit.framework.dll
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild.Test\bin\Debug\TeamCityBuild.exe
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild.Test\bin\Debug\TeamCityBuild.pdb
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild.Test\bin\Debug\TeamCityBuild.exe.config
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild.Test\bin\Debug\nunit.framework.xml
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild.Test\obj\Debug\TeamCityBuild.Test.csprojResolveAssemblyReference.cache
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild.Test\obj\Debug\TeamCityBuild.Test.dll
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild.Test\obj\Debug\TeamCityBuild.Test.pdb

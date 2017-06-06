@@ -1,0 +1,6 @@
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild\bin\Debug\TeamCityBuild.exe.config
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild\bin\Debug\TeamCityBuild.exe
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild\bin\Debug\TeamCityBuild.pdb
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild\obj\Debug\TeamCityBuild.csprojResolveAssemblyReference.cache
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild\obj\Debug\TeamCityBuild.exe
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild\obj\Debug\TeamCityBuild.pdb

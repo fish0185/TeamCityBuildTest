@@ -6,12 +6,22 @@ using System.Threading.Tasks;
 
 namespace TeamCityBuild
 {
-    class Program
+    public class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            throw new Exception("test");
+            var result = new Program().Add(10, 20);
+        }
+
+        public int Add(int a, int b)
+        {
+            return a + b;
+        }
+
+        public int multiply(int a, int b)
+        {
+            return a * b;
         }
     }
 }
