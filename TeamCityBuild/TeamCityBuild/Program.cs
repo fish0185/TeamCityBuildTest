@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 
 namespace TeamCityBuild
 {
+    using Newtonsoft.Json;
+
     public class Program
     {
         static void Main(string[] args)
@@ -13,6 +15,7 @@ namespace TeamCityBuild
             Console.WriteLine("Hello World");
             var result = new Program().Add(10, 20);
             Console.WriteLine(result);
+            JsonConvert.SerializeObject("test");
             Console.ReadLine();
         }
 

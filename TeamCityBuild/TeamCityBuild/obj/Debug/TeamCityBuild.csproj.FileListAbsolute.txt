@@ -4,3 +4,5 @@ D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild\bin\Debug\TeamCityBuild.p
 D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild\obj\Debug\TeamCityBuild.csprojResolveAssemblyReference.cache
 D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild\obj\Debug\TeamCityBuild.exe
 D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild\obj\Debug\TeamCityBuild.pdb
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild\bin\Debug\Newtonsoft.Json.dll
+D:\codeSample\TeamCityTest\TeamCityBuild\TeamCityBuild\bin\Debug\Newtonsoft.Json.xml
